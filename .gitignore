@@ -1,0 +1,10 @@
+.env
+.idea/
+venv/
+.venv/
+.pytest_cache/
+__pycache__/
+*.py[cod]
+logs/*.jsonl
+storage/uploads/*
+!storage/uploads/.gitkeep
